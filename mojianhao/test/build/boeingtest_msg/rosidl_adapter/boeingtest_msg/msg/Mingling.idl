@@ -1,0 +1,16 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from boeingtest_msg/msg/Mingling.msg
+// generated code does not contain a copyright notice
+
+
+module boeingtest_msg {
+  module msg {
+    struct Mingling {
+      int32 choice;
+
+      float can_x;
+
+      float can_y;
+    };
+  };
+};

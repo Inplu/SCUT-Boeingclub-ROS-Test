@@ -1,0 +1,25 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from boeingtest_msg/srv/Shiji.srv
+// generated code does not contain a copyright notice
+
+
+module boeingtest_msg {
+  module srv {
+    struct Shiji_Request {
+      int32 choice;
+
+      float x;
+
+      float y;
+
+      float the;
+    };
+    struct Shiji_Response {
+      double distance;
+
+      float factx;
+
+      float facty;
+    };
+  };
+};

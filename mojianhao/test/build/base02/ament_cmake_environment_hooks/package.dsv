@@ -1,0 +1,4 @@
+source;share/base02/local_setup.bash
+source;share/base02/local_setup.dsv
+source;share/base02/local_setup.sh
+source;share/base02/local_setup.zsh

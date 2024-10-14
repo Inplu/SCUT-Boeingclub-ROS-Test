@@ -1,0 +1,7 @@
+{
+  "package_name": "boeingtest_msg",
+  "non_idl_tuples": [
+    "/media/inplu/moranqiuhao/BoeingTest/mojianhao/test/src/boeingtest_msg:msg/Gezabo.msg",
+    "/media/inplu/moranqiuhao/BoeingTest/mojianhao/test/src/boeingtest_msg:action/Meilei.action"
+  ]
+}

@@ -1,0 +1,12 @@
+/media/inplu/moranqiuhao/BoeingTest/mojianhao/test/build/base02/CMakeFiles/uninstall.dir
+/media/inplu/moranqiuhao/BoeingTest/mojianhao/test/build/base02/CMakeFiles/base02_uninstall.dir
+/media/inplu/moranqiuhao/BoeingTest/mojianhao/test/build/base02/CMakeFiles/base201.dir
+/media/inplu/moranqiuhao/BoeingTest/mojianhao/test/build/base02/CMakeFiles/base200.dir
+/media/inplu/moranqiuhao/BoeingTest/mojianhao/test/build/base02/CMakeFiles/base202.dir
+/media/inplu/moranqiuhao/BoeingTest/mojianhao/test/build/base02/CMakeFiles/test.dir
+/media/inplu/moranqiuhao/BoeingTest/mojianhao/test/build/base02/CMakeFiles/edit_cache.dir
+/media/inplu/moranqiuhao/BoeingTest/mojianhao/test/build/base02/CMakeFiles/rebuild_cache.dir
+/media/inplu/moranqiuhao/BoeingTest/mojianhao/test/build/base02/CMakeFiles/list_install_components.dir
+/media/inplu/moranqiuhao/BoeingTest/mojianhao/test/build/base02/CMakeFiles/install.dir
+/media/inplu/moranqiuhao/BoeingTest/mojianhao/test/build/base02/CMakeFiles/install/local.dir
+/media/inplu/moranqiuhao/BoeingTest/mojianhao/test/build/base02/CMakeFiles/install/strip.dir

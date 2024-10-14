@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/ros/humble/include/**",
+                "/opt/ros/humble/include/geometry_msgs",
+                "/media/inplu/moranqiuhao/BoeingTest/mojianhao/test/install/boeingtest_msg/include/**",
+                "${workspaceFolder}/build/boeingtest_msg/rosidl_generator_cpp",
+                "/opt/ros/humble/include/turtlesim",
+                "/opt/ros/humble/include/rclcpp_action",
+                "/opt/ros/humble/include/visualization_msgs",
+                "/opt/ros/humble/include/rcl_action",
+                "/opt/ros/humble/include/tf2"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}

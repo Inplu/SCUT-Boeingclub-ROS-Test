@@ -1,0 +1,36 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from boeingtest_msg/action/Meilei.action
+// generated code does not contain a copyright notice
+
+
+module boeingtest_msg {
+  module action {
+    @verbatim (language="comment", text=
+      "请求数据")
+    struct Meilei_Goal {
+      int32 choice;
+
+      float x;
+
+      float y;
+
+      float ang;
+    };
+    @verbatim (language="comment", text=
+      "最终响应")
+    struct Meilei_Result {
+      float turtle_x;
+
+      float turtle_y;
+    };
+    @verbatim (language="comment", text=
+      "连续反馈")
+    struct Meilei_Feedback {
+      float distance;
+
+      float factx;
+
+      float facty;
+    };
+  };
+};
