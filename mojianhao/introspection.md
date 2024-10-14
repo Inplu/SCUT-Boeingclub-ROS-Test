@@ -622,4 +622,4 @@ rclcpp::Rate rate(2.0);
 
 ---
   再次感谢波音俱乐部的这次机会，让我进入了ros这个世界，也感谢B站的各位up主提供的资源。  
-  [github地址](https://github.com/Inplu/SCUT-Boeingclub-ROS-Test.git)
+  [github地址](https://github.com/Inplu/SCUT-Boeingclub-ROS-Test)
