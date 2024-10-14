@@ -169,8 +169,8 @@ function testt(){
    done
 }
 function repor(){
-   relative="mojianhao/introspection.md"
-   temp04=$(cat "$script_dir/$relative")
+   relatives="mojianhao/introspection.md"
+   temp04=$(cat "$script_dir/$relatives")
    while true;
    do 
       dialog --colors --backtitle "\Z3(づ￣ ³￣)づ 二级菜单：老师来查作业辣！" --colors --menu "\Z4\Zb该文件为md文件，打开方式：" 30 50 10 1 "直接查看" 2 "gedit" 3 "code" 4 "typora" 0 "退出 O_O" 2>$temp02
@@ -183,11 +183,11 @@ function repor(){
          1)
             dialog --colors --backtitle "\Z3(╯°口°)╯？！技术总结，那是什么" --msgbox "$temp04" 30 50;;
          2)
-            gedit $temp04;;
+            gedit "$script_dir/$relatives";;
          3)
-            code $temp04;;
+            code "$script_dir/$relatives";;
          4)
-            typora $temp04;;
+            typora "$script_dir/$relatives";;
          0)
             break;;
       *)
